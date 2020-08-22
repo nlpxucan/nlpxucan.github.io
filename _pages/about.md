@@ -14,6 +14,10 @@ redirect_from:
 * My research interests lie in natural language processing, chatbot systems, and information retrieval.
 * I received my Bachelor’s Degree in Computer Science from [Sichuan University](http://http://scu.edu.cn/) and Master's Degree in Computer Technology from [Peking University](https://www.pku.edu.cn/).
 
+# Recent News
+* 1 paper about <a href="https://openreview.net/forum?id=rJeIcTNtvS">low-resource knowledge-grounded dialogue generation</a> accepted by ICLR 2020! In this work, we present how to achieve sota performance on <a href="https://arxiv.org/abs/1811.01241">Wizard of Wikipedia</a> with only 1/8 training examples. 
+* 2 papers accepted by EMNLP 2019!
+
 # Working Experiences
 * July. 2020 - Now, Research Scientist, Natural Language Processing Group, Microsoft Software Technology Center at Asia. Manager: <a href="https://www.microsoft.com/en-us/research/people/djiang/">Dr. Daxin Jiang</a>
 * July. 2020 - Apri. 2018, Research Scientist, XiaoIce Research Group, Microsoft Software Technology Center at Asia. Manager: <a href="https://sites.google.com/view/wei-wu-homepage">Dr. Wei Wu</a>
