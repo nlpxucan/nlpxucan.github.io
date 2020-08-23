@@ -12,17 +12,13 @@ Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
 <i>ArXiv 2020</i>.
 
-<b>[Open Domain Dialogue Generation with Latent Images](http://lantaoyu.com/publications/VBDA)</b> <br> 
+<b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
 Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 <i>ArXiv 2020</i>.
 
-<a href = "https://arxiv.org/pdf/2004.01981.pdf" target="_blank">Open-Domain Dialogue Generation with Latent Image</a><br>
-			Ze Yang, Wei Wu, <b>Huang Hu</b>, Can Xu, Wei Zhang and Zhoujun Li. <br>
-			arXiv:2006.06119
-
-<b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
-Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
-<i>The 23rd International Conference on Artificial Intelligence and Statistics</i>. <b>AISTATS 2020</b>.
+<b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
+Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
+<b>EMNLP 2019</b>. <a href="https://github.com/TobeyYang/S2S_Temp" target="_blank">[<u>code</u>]</a>
 
 <b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
 Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
