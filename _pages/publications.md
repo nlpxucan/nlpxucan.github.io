@@ -4,13 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-<b>[MOPO: Model-based Offline Policy Optimization](http://lantaoyu.com/publications/MOPO)</b> <br> 
-Tianhe Yu\*, Garrett Thomas\*, <b>Lantao Yu</b>, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn, Tengyu Ma.
-<i>ArXiv 2020</i>.
+<b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
+Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
+<i>ICLR 2020</i>.
 
-<b>[Training Deep Energy-Based Models with f-Divergence Minimization](http://lantaoyu.com/publications/fEBM)</b> <br> 
-<b>Lantao Yu</b>, Yang Song, Jiaming Song, Stefano Ermon.
-<i>The 37th International Conference on Machine Learning</i>. <b>ICML 2020</b>.
+<b>[Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks](https://arxiv.org/pdf/2004.01972.pdf)</b> <br> 
+Yufan Zhao, <b>Can Xu</b>, Wei Wu.
+<i>ArXiv 2020</i>.
 
 <b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
 Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
