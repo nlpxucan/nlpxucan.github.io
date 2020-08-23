@@ -27,7 +27,7 @@ Ze Yang, <b>Can Xu</b>, Wei Wu, Zhoujun Li.
 
 <b>[One time of interaction may not be enough: Go deep with an interaction-over-interaction network for response selection in dialogues](https://www.aclweb.org/anthology/P19-1001.pdf)</b> <br> 
 Chongyang Tao, Wei Wu, <b>Can Xu</b>, Wenpeng Hu, Dongyan Zhao, Rui Yan.
-<b>ACL 2019</b>.<a href="https://github.com/chongyangtao/IOI" target="_blank">[<u>code</u>]</a>
+<b>ACL 2019</b>.<a href="https://github.com/chongyangtao/IOI" target="_blank">[code]</a>
 
 <b>[Neural Response Generation with Meta-Words](https://arxiv.org/pdf/1906.06050.pdf)</b> <br> 
 <b>Can Xu</b>, Wei Wu, Chongyang Tao, Huang Hu, Matt Schuerman, Ying Wang.
@@ -38,7 +38,7 @@ Xueliang Zhao, Chongyang Tao, Wei Wu, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 <b>IJCAI 2019</b>.
 
 <b>[A sequential matching framework for multi-turn response selection in retrieval-based chatbots](https://www.mitpressjournals.org/doi/full/10.1162/coli_a_00345)</b> <br>
-Yu Wu, Wei Wu, Chen Xing, Can Xu, Zhoujun Li, Ming Zhou. <b>CL</b>.
+Yu Wu, Wei Wu, Chen Xing, <b>Can Xu</b>, Zhoujun Li, Ming Zhou. <b>CL</b>.
 
 <b>[Multi-representation fusion network for multi-turn response selection in retrieval-based chatbots](https://dl.acm.org/doi/abs/10.1145/3289600.3290985)</b><br>
 Chongyang Tao, Wei Wu, <b>Can Xu</b>, Wenpeng Hu, Dongyan Zhao, Rui Yan.
