@@ -47,23 +47,16 @@ Chongyang Tao, Wei Wu, <b>Can Xu</b>, Wenpeng Hu, Dongyan Zhao, Rui Yan.
 Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, <b>Can Xu</b>, Wei Wu, Chen Zhan.
 <b>EMNLP 2018.</b><a href="https://github.com/stonyhu/Q20-DeepRL" target="_blank">[<u>code</u>]</a>
 
-<b>[A Study of AI Population Dynamics with Million-agent Reinforcement Learning](http://lantaoyu.com/publications/MA)</b><br>
-Yaodong Yang\*, <b>Lantao Yu</b>\*, Yiwei Bai\*, Jun Wang, Weinan Zhang, Ying Wen, Yong Yu. <i>The 17th International Conference on Autonomous Agents and Multi-Agent Systems.</i> <b>AAMAS 2018</b>.
+<b>[Towards explainable and controllable open domain dialogue generation with dialogue acts](https://arxiv.org/pdf/1807.07255.pdf)</b><br>
+<b>Can Xu</b>, Wei Wu, Yu Wu. <i>ArXiv 2018</i>.
 
-<b>[Exploiting Real-World Data and Human Knowledge for Predicting Wildlife Poaching](http://lantaoyu.com/publications/COMPASS18)</b><br>
-Swaminathan Gurumurthy, <b>Lantao Yu</b>, Chenyan Zhang, Yongchao Jin, Weiping Li, Xiaodong Zhang, Fei Fang. <i>ACM SIGCAS Conference on Computing and Sustainable Societies.</i> <b>COMPASS 2018</b>.
+<b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
+Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<i>ArXiv 2018</i>.
 
-<b>[Deep Reinforcement Learning for Green Security Game with Online Information](http://lantaoyu.com/publications/RLSG)</b><br>
-<b>Lantao Yu</b>, Yi Wu, Rohit Singh, Lucas Joppa and Fei Fang. <i>AAAI-18 Artificial Intelligence for Imperfect-Information Games Workshop.</i>
+<b>[Neural response generation with dynamic vocabularies](https://arxiv.org/pdf/1711.11191.pdf)</b><br>
+Yu Wu, Wei Wu, Dejiang Yang, <b>Can Xu</b>, Zhoujun Li, Ming Zhou. <b>AAAI-18</b>
 
-<b>[IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models](http://lantaoyu.com/publications/IRGAN)</b><br>
-Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang.
-<i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017</b>. <b><span style="color:red">(Best Paper Award Honorable Mention)</span></b>
+<b>[Knowledge enhanced hybrid neural network for text matching](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16225/16116)</b><br>
+Yu Wu, Wei Wu, <b>Can Xu</b>, Zhoujun Li, Ming Zhou.
+<b>AAAI-18</b>
 
-<b>[A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration](http://lantaoyu.com/publications/DADM)</b><br>
-Xuejian Wang\*, <b>Lantao Yu</b>\*, Kan Ren, Guanyu Tao, Weinan Zhang, Yong Yu, Jun Wang.
-<i>The 23rd SIGKDD Conference on Knowledge Discovery and Data Mining.</i> <b>KDD 2017</b>.
-
-<b>[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](http://lantaoyu.com/publications/SeqGAN)</b> <br>
-<b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
-<i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
