@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Can Xu"
-  avatar           : ".files/photo.jpg"
+  avatar           : "photo.jpg"
   bio              : "Research Scientist @ Microsoft STCA NLP Center"
   location         : "Beijing"
   employer         :
