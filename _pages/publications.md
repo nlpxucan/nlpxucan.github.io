@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
 Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
-<i>ICLR 2020</i>.
+<b>ICLR 2020</b>.
 
 <b>[Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks](https://arxiv.org/pdf/2004.01972.pdf)</b> <br> 
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
@@ -15,6 +15,10 @@ Yufan Zhao, <b>Can Xu</b>, Wei Wu.
 <b>[Open Domain Dialogue Generation with Latent Images](http://lantaoyu.com/publications/VBDA)</b> <br> 
 Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 <i>ArXiv 2020</i>.
+
+<a href = "https://arxiv.org/pdf/2004.01981.pdf" target="_blank">Open-Domain Dialogue Generation with Latent Image</a><br>
+			Ze Yang, Wei Wu, <b>Huang Hu</b>, Can Xu, Wei Zhang and Zhoujun Li. <br>
+			arXiv:2006.06119
 
 <b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
 Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
