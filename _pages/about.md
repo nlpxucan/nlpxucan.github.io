@@ -19,7 +19,7 @@ redirect_from:
 * 2 papers accepted by EMNLP 2019!
 
 # Hiring
-* I 'm always looking for highly self-motivated students (Undergraduate/Graduate) to work with me as research interns
+* I 'm always looking for highly self-motivated students to work with me as research interns
 
 # Working Experiences
 * July. 2020 - Now, Research Scientist, Natural Language Processing Group, Microsoft Software Technology Center at Asia. Manager: <a href="https://www.microsoft.com/en-us/research/people/djiang/">Dr. Daxin Jiang</a>
