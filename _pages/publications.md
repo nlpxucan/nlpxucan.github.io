@@ -12,9 +12,9 @@ Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
 <i>ArXiv 2020</i>.
 
-<b>[Improving Unsupervised Domain Adaptation with Variational Information Bottleneck](http://lantaoyu.com/publications/VBDA)</b> <br> 
-Yuxuan Song, <b>Lantao Yu</b>, Zhangjie Cao, Zhiming Zhou, Jian Shen, Shuo Shao, Weinan Zhang, Yong Yu.
-<i>The 24th European Conference on Artificial Intelligence</i>. <b>ECAI 2020</b>.
+<b>[Open Domain Dialogue Generation with Latent Images](http://lantaoyu.com/publications/VBDA)</b> <br> 
+Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
+<i>ArXiv 2020</i>.
 
 <b>[Improving Maximum Likelihood Training for Text Generation with Density Ratio Estimation](http://lantaoyu.com/publications/TextDR)</b> <br> 
 Yuxuan Song, Ning Miao, Hao Zhou, <b>Lantao Yu</b>, Mingxuan Wang, Lei Li.
