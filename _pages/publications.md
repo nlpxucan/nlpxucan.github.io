@@ -9,7 +9,6 @@ author_profile: true
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
 <i>ArXiv 2020</i>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
 
-<br><br>
 <b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
 Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 <b>ICLR 2020</b>.
