@@ -15,7 +15,7 @@ Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 
 <b>[Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks](https://arxiv.org/pdf/2004.01972.pdf)</b> <br> 
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
-<i>ArXiv 2020</i>.
+<b>EMNLP 2020</b>.
 
 <b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
 Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
