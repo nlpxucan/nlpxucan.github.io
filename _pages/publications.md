@@ -7,7 +7,7 @@ author_profile: true
 <br><br>
 <b>[Zero-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2008.12918.pdf)</b> <br> 
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
-<i>ArXiv 2020</i>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
+<b>NeurIPS 2020</b>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
 
 <b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
 Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
