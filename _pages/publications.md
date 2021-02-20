@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <br><br>
+<b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
+Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
+<b>AAAI 2021</b>.
+
 <b>[Zero-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2008.12918.pdf)</b> <br> 
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
 <b>NeurIPS 2020</b>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
@@ -16,10 +20,6 @@ Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 <b>[Learning a Simple and Effective Model for Multi-turn Response Generation with Auxiliary Tasks](https://arxiv.org/pdf/2004.01972.pdf)</b> <br> 
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
 <b>EMNLP 2020</b>.
-
-<b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
-Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
-<i>ArXiv 2020</i>.
 
 <b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
 Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
