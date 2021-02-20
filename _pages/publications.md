@@ -27,7 +27,7 @@ Xueliang Zhao, Wei Wu, <b>Can Xu</b>, Chongyang Tao, Dongyan Zhao, Rui Yan.
 
 <b>[StyleDGPT: Stylized Response Generation with Pre-trained Language Model](https://arxiv.org/pdf/2010.02569.pdf)</b> <br> 
 Yang Ze, Wei Wu, <b>Can Xu</b>, Xinnian Liang, Jiaqi Bai, Liran wang, Wei Wang, Zhoujun Li.
-<b>EMNLP 2020</b>.
+<b>EMNLP 2020 findings</b>.
 
 <b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
 Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
