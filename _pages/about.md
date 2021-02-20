@@ -15,6 +15,7 @@ redirect_from:
 * I received my Bachelor’s Degree in Computer Science from [Sichuan University](http://http://scu.edu.cn/) and Master's Degree in Computer Technology from [Peking University](https://www.pku.edu.cn/).
 
 # Recent News
+* 1 paper about <a href="https://arxiv.org/pdf/2004.01981.pdf">Open Domain Dialogue Generation with Latent Images</a> accepted by AAAI 2021!
 * 1 paper about <a href="https://arxiv.org/abs/2008.12918">zero-resource knowledge-grounded dialogue generation</a> accepted by NeurIPS 2020!
 * 3 papers(2 Accept, 1 Accept Findings) accepted by EMNLP 2020!
 * 1 paper about <a href="https://openreview.net/forum?id=rJeIcTNtvS">low-resource knowledge-grounded dialogue generation</a> accepted by ICLR 2020! In this work, we present how to achieve sota performance on <a href="https://arxiv.org/abs/1811.01241">Wizard of Wikipedia</a> with only 1/8 training examples. 
