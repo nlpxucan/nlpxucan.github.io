@@ -21,6 +21,14 @@ Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 Yufan Zhao, <b>Can Xu</b>, Wei Wu.
 <b>EMNLP 2020</b>.
 
+<b>[Knowledge-Grounded Dialogue Generation with Pre-trained Language Models](https://arxiv.org/pdf/2010.08824.pdf)</b> <br> 
+Xueliang Zhao, Wei Wu, <b>Can Xu</b>, Chongyang Tao, Dongyan Zhao, Rui Yan.
+<b>EMNLP 2020</b>.
+
+<b>[StyleDGPT: Stylized Response Generation with Pre-trained Language Model](https://arxiv.org/pdf/2010.02569.pdf)</b> <br> 
+Yang Ze, Wei Wu, <b>Can Xu</b>, Xinnian Liang, Jiaqi Bai, Liran wang, Wei Wang, Zhoujun Li.
+<b>EMNLP 2020</b>.
+
 <b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
 Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
 <b>EMNLP 2019</b>. <a href="https://github.com/TobeyYang/S2S_Temp" target="_blank">[<u>code</u>]</a>
