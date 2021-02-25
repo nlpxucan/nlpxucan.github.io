@@ -64,7 +64,7 @@ Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, <b>Can Xu</b>, Wei Wu, Chen 
 <b>Can Xu</b>, Wei Wu, Yu Wu. <i>ArXiv 2018</i>.
 
 <b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
-Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<i>ArXiv 2018</i>.
+Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020</b>.
 
 <b>[Neural response generation with dynamic vocabularies](https://arxiv.org/pdf/1711.11191.pdf)</b><br>
 Yu Wu, Wei Wu, Dejiang Yang, <b>Can Xu</b>, Zhoujun Li, Ming Zhou. <b>AAAI-18</b>
