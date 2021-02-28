@@ -13,9 +13,6 @@ Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
 <b>NeurIPS 2020</b>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
 
-<b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
-Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020</b>.
-
 <b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
 Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 <b>ICLR 2020</b>.
@@ -31,6 +28,9 @@ Xueliang Zhao, Wei Wu, <b>Can Xu</b>, Chongyang Tao, Dongyan Zhao, Rui Yan.
 <b>[StyleDGPT: Stylized Response Generation with Pre-trained Language Model](https://arxiv.org/pdf/2010.02569.pdf)</b> <br> 
 Yang Ze, Wei Wu, <b>Can Xu</b>, Xinnian Liang, Jiaqi Bai, Liran wang, Wei Wang, Zhoujun Li.
 <b>EMNLP 2020 findings</b>.
+
+<b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
+Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020 short</b>.
 
 <b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
 Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
