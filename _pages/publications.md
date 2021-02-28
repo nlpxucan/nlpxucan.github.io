@@ -13,6 +13,9 @@ Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
 <b>NeurIPS 2020</b>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
 
+<b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
+Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020</b>.
+
 <b>[Low-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2002.10348.pdf)</b> <br> 
 Xueliang Zhao, Wei Wu, Chongyang Tao, <b>Can Xu</b>, Dongyan Zhao, Rui Yan.
 <b>ICLR 2020</b>.
@@ -62,9 +65,6 @@ Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, <b>Can Xu</b>, Wei Wu, Chen 
 
 <b>[Towards explainable and controllable open domain dialogue generation with dialogue acts](https://arxiv.org/pdf/1807.07255.pdf)</b><br>
 <b>Can Xu</b>, Wei Wu, Yu Wu. <i>ArXiv 2018</i>.
-
-<b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
-Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020</b>.
 
 <b>[Neural response generation with dynamic vocabularies](https://arxiv.org/pdf/1711.11191.pdf)</b><br>
 Yu Wu, Wei Wu, Dejiang Yang, <b>Can Xu</b>, Zhoujun Li, Ming Zhou. <b>AAAI-18</b>
