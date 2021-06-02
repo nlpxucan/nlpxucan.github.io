@@ -31,13 +31,13 @@ redirect_from:
 * Apri. 2017 - Apri. 2018, Associate Researcher, Natural Language Computing Group, Microsoft Research Asia. Manager: <a href="https://sites.google.com/view/wei-wu-homepage">Dr. Wei Wu</a>
 
 # Academic Services
-
+<br>
 Program Committee for
-    NeurIPS 2021    
-    ACL 2020,2021    
-    SIGIR 2021
-    AAAI 2021    
-    EMNLP 2020,2021
-
+    <br>NeurIPS 2021    
+    <br>ACL 2020,2021    
+    <br>SIGIR 2021
+    <br>AAAI 2021    
+    <br>EMNLP 2020,2021
+<br>
 Senior Program Committee for
     IJCAI 2021
