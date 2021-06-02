@@ -30,3 +30,14 @@ redirect_from:
 * July. 2020 - Apri. 2018, Research Scientist, XiaoIce Research Group, Microsoft Software Technology Center at Asia. Manager: <a href="https://sites.google.com/view/wei-wu-homepage">Dr. Wei Wu</a>
 * Apri. 2017 - Apri. 2018, Associate Researcher, Natural Language Computing Group, Microsoft Research Asia. Manager: <a href="https://sites.google.com/view/wei-wu-homepage">Dr. Wei Wu</a>
 
+# Academic Services
+
+Program Committee for
+    NeurIPS 2021    
+    ACL 2020,2021    
+    SIGIR 2021
+    AAAI 2021    
+    EMNLP 2020,2021
+
+Senior Program Committee for
+    IJCAI 2021
