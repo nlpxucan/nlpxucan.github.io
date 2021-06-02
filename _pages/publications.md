@@ -8,7 +8,6 @@ author_profile: true
 Zujie Liang, Huang Hu, <b>Can Xu</b>, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
 <b>ACL 2021</b>. <a href="https://github.com/nlpxucan/Maria" target="_blank">[<u>code</u>]</a>
 
-<br><br>
 <b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
 Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 <b>AAAI 2021</b>.
