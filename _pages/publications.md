@@ -3,6 +3,10 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<br><br>
+<b>[Maria: A Visual Experience Powered Conversational Agent](https://arxiv.org/pdf/2105.13073.pdf)</b> <br> 
+Zujie Liang, Huang Hu, <b>Can Xu</b>, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
+<b>ACL 2021</b>. <a href="https://github.com/nlpxucan/Maria" target="_blank">[<u>code</u>]</a>
 
 <br><br>
 <b>[Open Domain Dialogue Generation with Latent Images](https://arxiv.org/pdf/2004.01981.pdf)</b> <br> 
