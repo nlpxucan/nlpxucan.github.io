@@ -33,11 +33,11 @@ redirect_from:
 # Academic Services
 <br>
 Program Committee for
-    <br>NeurIPS 2021    
-    <br>ACL 2020,2021    
-    <br>SIGIR 2021
-    <br>AAAI 2021    
-    <br>EMNLP 2020,2021
+* NeurIPS 2021    
+* ACL 2020,2021    
+* SIGIR 2021
+* AAAI 2021    
+* EMNLP 2020,2021
 <br>
 Senior Program Committee for
-    IJCAI 2021
+* IJCAI 2021
