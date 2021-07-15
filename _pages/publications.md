@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 <br><br>
+<b>[ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation](https://arxiv.org/pdf/2104.08006.pdf)</b> <br> 
+Weizhen Qi, Yeyun Gong, Yu Yan, <b>Can Xu</b>, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan.
+<b>ACL 2021 Demo</b>. <a href="https://github.com/microsoft/ProphetNet" target="_blank">[<u>code</u>]</a>
+
+<b>[MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding](https://arxiv.org/pdf/2106.01541.pdf)</b> <br> 
+Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, <b>Can Xu</b>, Xiubo Geng, Daxin Jiang.
+<b>ACL 2021</b>.
+
 <b>[Maria: A Visual Experience Powered Conversational Agent](https://arxiv.org/pdf/2105.13073.pdf)</b> <br> 
 Zujie Liang, Huang Hu, <b>Can Xu</b>, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang, Daxin Jiang.
 <b>ACL 2021</b>. <a href="https://github.com/nlpxucan/Maria" target="_blank">[<u>code</u>]</a>
