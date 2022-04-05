@@ -36,10 +36,10 @@ redirect_from:
 
 # Academic Services
 Program Committee for
-* NeurIPS 2021    
-* ACL 2020,2021    
-* SIGIR 2021
-* AAAI 2021    
+* NeurIPS 2021,2022    
+* ACL 2020,2021,2022    
+* SIGIR 2021,2022
+* AAAI 2021,2022    
 * EMNLP 2020,2021
 
 Senior Program Committee for
