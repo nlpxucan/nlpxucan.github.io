@@ -4,6 +4,38 @@ permalink: /publications/
 author_profile: true
 ---
 <br><br>
+<b>[PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/pdf/2202.12499.pdf)</b> <br> 
+Yufei Wang, <b>Can Xu</b>, Qingfeng Sun, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang.
+<b>ACL 2022</b>. <a href="https://github.com/GaryYufei/PromDA" target="_blank">[<u>code</u>]</a>
+
+<b>[Multimodal Dialogue Response Generation](https://arxiv.org/pdf/2110.08515.pdf)</b> <br> 
+Qingfeng Sun, Yujing Wang, <b>Can Xu</b>, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang.
+<b>ACL 2022</b>.
+
+<b>[Contextual Fine-to-Coarse Distillation for Coarse-grained Response Selection in Open-Domain Conversations](https://arxiv.org/pdf/2109.13087.pdf)</b> <br> 
+Wei Chen, Yeyun Gong, <b>Can Xu</b>, Huang Hu, Bolun Yao, Zhongyu Wei, Zhihao Fan, Xiaowu Hu, Bartuer Zhou, Biao Cheng, Daxin Jiang, Nan Duan.
+<b>ACL 2022</b>.
+
+<b>[TegTok: Augmenting Text Generation via Task-specific and Open-world Knowledge](https://arxiv.org/pdf/2203.08517.pdf)</b> <br> 
+Chao-Hong Tan, Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, <b>Can Xu</b>, Huang Hu, Xiubo Geng, Daxin Jiang.
+<b>ACL 2022 findings</b>. <a href="https://github.com/lxchtan/TEGTOK" target="_blank">[<u>code</u>]</a>
+
+<b>[Unsupervised Cross-Domain Adaptation for Response Selection Using Self-Supervised and Adversarial Training](https://dl.acm.org/doi/abs/10.1145/3488560.3498404)</b> <br> 
+Jia Li, Chongyang Tao, Huang Hu, <b>Can Xu</b>, Yining Chen, Daxin Jiang.
+<b>WSDM 2022</b>.
+
+<b>[Learning Neural Templates for Recommender Dialogue System](https://arxiv.org/pdf/2109.12302.pdf)</b> <br> 
+Zujie Liang, Huang Hu, <b>Can Xu</b>, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang.
+<b>EMNLP 2021</b>. <a href=" https://github.com/jokieleung/NTRD" target="_blank">[<u>code</u>]</a>
+
+<b>[Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/pdf/2109.06013.pdf)</b> <br> 
+Feilong Chen, <b>Can Xu</b>, Daxin Jiang.
+<b>EMNLP 2021 findings</b>.
+
+<b>[Neural Rule-Execution Tracking Machine For Transformer-Based Text Generation](https://proceedings.neurips.cc/paper/2021/file/8ce241e1ed84937ee48322b170b9b18c-Paper.pdf)</b> <br> 
+Yufei Wang, <b>Can Xu</b>, Huang Hu, Chongyang Tao, Stephen Wan, Mark Dras, Mark Johnson, Daxin Jiang.
+<b>NeurIPS 2021</b>.
+
 <b>[ProphetNet-X: Large-Scale Pre-training Models for English, Chinese, Multi-lingual, Dialog, and Code Generation](https://arxiv.org/pdf/2104.08006.pdf)</b> <br> 
 Weizhen Qi, Yeyun Gong, Yu Yan, <b>Can Xu</b>, Bolun Yao, Bartuer Zhou, Biao Cheng, Daxin Jiang, Jiusheng Chen, Ruofei Zhang, Houqiang Li, Nan Duan.
 <b>ACL 2021 Demo</b>. <a href="https://github.com/microsoft/ProphetNet" target="_blank">[<u>code</u>]</a>
