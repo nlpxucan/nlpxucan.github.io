@@ -26,7 +26,7 @@ Jia Li, Chongyang Tao, Huang Hu, <b>Can Xu</b>, Yining Chen, Daxin Jiang.
 
 <b>[Learning Neural Templates for Recommender Dialogue System](https://arxiv.org/pdf/2109.12302.pdf)</b> <br> 
 Zujie Liang, Huang Hu, <b>Can Xu</b>, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang.
-<b>EMNLP 2021</b>. <a href=" https://github.com/jokieleung/NTRD" target="_blank">[<u>code</u>]</a>
+<b>EMNLP 2021</b>. <a href="https://github.com/jokieleung/NTRD" target="_blank">[<u>code</u>]</a>
 
 <b>[Learning to Ground Visual Objects for Visual Dialog](https://arxiv.org/pdf/2109.06013.pdf)</b> <br> 
 Feilong Chen, <b>Can Xu</b>, Daxin Jiang.
