@@ -15,6 +15,9 @@ redirect_from:
 * I received my Bachelor’s Degree in Computer Science from [Sichuan University](http://http://scu.edu.cn/) and Master's Degree in Computer Technology from [Peking University](https://www.pku.edu.cn/).
 
 # Recent News
+* 4 long papers(3 Accept, 1 Accept Findings) accepted by ACL 2022!
+* 1 paper about <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498404"> Unsupervised Cross-Domain Adaptation for resposne selection</a> accepted by WSDM 2022!
+* Received a NeurIPS 2021 Outstanding Reviewer Award
 * 2 papers(1 Accept, 1 Accept Findings) accepted by EMNLP 2021!
 * 3 papers(2 Accept, 1 Accept Findings) accepted by ACL 2021!
 * 1 paper about <a href="https://arxiv.org/pdf/2004.01981.pdf">Open Domain Dialogue Generation with Latent Images</a> accepted by AAAI 2021!
