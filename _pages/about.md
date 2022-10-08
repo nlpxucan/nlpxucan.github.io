@@ -15,6 +15,7 @@ redirect_from:
 * I received my Bachelor’s Degree in Computer Science from [Sichuan University](http://http://scu.edu.cn/) and Master's Degree in Computer Technology from [Peking University](https://www.pku.edu.cn/).
 
 # Recent News
+* 1 paper about <a href="https://arxiv.org/abs/2201.12093"> Peer-Contrastive Learning for Unsupervised Sentence Embeddings</a> accepted by EMNLP 2022!
 * 1 paper about <a href="https://arxiv.org/abs/2111.10154"> Fine-Grained Contrastive Learning for Dialogue Response Selection</a> accepted by INTERSPEECH 2022!
 * 1 paper about <a href="https://arxiv.org/abs/2204.05610"> Stylized Knowledge-Grounded Dialogue Generation</a> accepted by NAACL 2022!
 * 4 long papers(3 Accept, 1 Accept Findings) accepted by ACL 2022!
