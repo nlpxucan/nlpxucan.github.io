@@ -10,9 +10,9 @@ redirect_from:
 
 
 # Bio
-* I am a senior research scientist at Microsoft STCA (Software Technology Center at Asia) NLP Group. I am proficient in building open-domain chatbot and contribute core deep models for chat engines of Microsoft XiaoIce (微软小冰) v5,v6,v8 and Microsoft Rinna (りんな). 
-* My research interests include natural language generation, dialogue systems, and information retrieval.
-* I received my Bachelor’s Degree in Computer Science from [Sichuan University](http://http://scu.edu.cn/) and Master's Degree in Computer Technology from [Peking University](https://www.pku.edu.cn/).
+* Can Xu is currently a senior research scientist at Microsoft STCA (Software Technology Center at Asia) NLP Group. He contribute core NLP models for Microsoft XiaoIce (微软小冰), Bing Chatbot and Bing Answer Ranking. 
+* His research interests include natural language generation, dialogue systems, and information retrieval.
+* He received bachelor’s degree in computer science from Sichuan University and master's degree (advisor was Jingsong Yu) in computer technology from Peking University.
 
 # Recent News
 * 1 paper about <a href="https://arxiv.org/abs/2201.12093"> Peer-Contrastive Learning for Unsupervised Sentence Embeddings</a> accepted by EMNLP 2022!
@@ -31,7 +31,7 @@ redirect_from:
 * 2 papers accepted by EMNLP 2019!
 
 # Hiring
-* I 'm always looking for highly self-motivated students to work with me as research interns
+* looking for highly self-motivated students to work with me as research interns
 
 # Working Experiences
 * July. 2020 - Now, Research Scientist, Natural Language Processing Group, Microsoft Software Technology Center at Asia.
