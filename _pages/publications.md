@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br><br>
+<b>[Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)</b> <br> 
+Qingfeng Sun, <b>Can Xu</b>, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang.
+<b>NAACL 2022</b>. <a href="https://github.com/victorsungo/SKDG-DTR" target="_blank">[<u>code</u>]</a>
+
 <b>[PromDA: Prompt-based Data Augmentation for Low-Resource NLU Tasks](https://arxiv.org/pdf/2202.12499.pdf)</b> <br> 
 Yufei Wang, <b>Can Xu</b>, Qingfeng Sun, Huang Hu, Chongyang Tao, Xiubo Geng, Daxin Jiang.
 <b>ACL 2022</b>. <a href="https://github.com/GaryYufei/PromDA" target="_blank">[<u>code</u>]</a>
