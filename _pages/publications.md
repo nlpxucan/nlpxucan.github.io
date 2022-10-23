@@ -3,10 +3,11 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br><br>
+<h3><strong>2022</strong></h3>
+
 <b>[PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/abs/2201.12093)</b> <br> 
 Qiyu Wu, Chongyang Tao, Tao Shen, <b>Can Xu</b>, Xiubo Geng, Daxin Jiang.
-<b>EMNLP 2022</b>. 
+<b>EMNLP 2022</b>.
 
 <b>[Small Changes Make Big Differences: Improving Multi-turn Response Selection in Dialogue Systems via Fine-Grained Contrastive Learning](https://arxiv.org/abs/2111.10154)</b> <br> 
 Yuntao Li, <b>Can Xu</b>, Huang Hu, Lei Sha, Yan Zhang, Daxin Jiang.
@@ -36,6 +37,8 @@ Chao-Hong Tan, Jia-Chen Gu, Chongyang Tao, Zhen-Hua Ling, <b>Can Xu</b>, Huang H
 Jia Li, Chongyang Tao, Huang Hu, <b>Can Xu</b>, Yining Chen, Daxin Jiang.
 <b>WSDM 2022</b>.
 
+<h3><strong>2021</strong></h3>
+
 <b>[Learning Neural Templates for Recommender Dialogue System](https://arxiv.org/pdf/2109.12302.pdf)</b> <br> 
 Zujie Liang, Huang Hu, <b>Can Xu</b>, Jian Miao, Yingying He, Yining Chen, Xiubo Geng, Fan Liang, Daxin Jiang.
 <b>EMNLP 2021</b>. <a href="https://github.com/jokieleung/NTRD" target="_blank">[<u>code</u>]</a>
@@ -64,6 +67,8 @@ Zujie Liang, Huang Hu, <b>Can Xu</b>, Chongyang Tao, Xiubo Geng, Yining Chen, Fa
 Ze Yang, Wei Wu, Huang Hu, <b>Can Xu</b>, Zhoujun Li.
 <b>AAAI 2021</b>.
 
+<h3><strong>2020</strong></h3>
+
 <b>[Zero-Resource Knowledge-Grounded Dialogue Generation](https://arxiv.org/pdf/2008.12918.pdf)</b> <br> 
 Linxiao Li, <b>Can Xu</b>, Wei Wu, Yufan Zhao, Xueliang Zhao, Chongyang Tao.
 <b>NeurIPS 2020</b>. <a href="https://github.com/nlpxucan/ZRKGC" target="_blank">[<u>code</u>]</a>
@@ -86,6 +91,8 @@ Yang Ze, Wei Wu, <b>Can Xu</b>, Xinnian Liang, Jiaqi Bai, Liran wang, Wei Wang, 
 
 <b>[Improving matching models with contextualized word representations for multiturn response selection in retrieval-based chatbots](https://arxiv.org/pdf/1808.07244.pdf)</b><br>
 Chongyang Tao, Wei Wu, <b>Can Xu</b>, Yansong Feng, Rui Yan, Dongyan Zhao.<b>SIGIR 2020 short</b>.
+
+<h3><strong>2019</strong></h3>
 
 <b>[Low-Resource Response Generation with Template Prior](https://arxiv.org/pdf/1909.11968.pdf)</b> <br> 
 Ze Yang, Wei Wu, Jian Yang, <b>Can Xu</b>, Zhoujun Li.
@@ -113,6 +120,8 @@ Yu Wu, Wei Wu, Chen Xing, <b>Can Xu</b>, Zhoujun Li, Ming Zhou. <b>CL</b>.
 <b>[Multi-representation fusion network for multi-turn response selection in retrieval-based chatbots](https://dl.acm.org/doi/abs/10.1145/3289600.3290985)</b><br>
 Chongyang Tao, Wei Wu, <b>Can Xu</b>, Wenpeng Hu, Dongyan Zhao, Rui Yan.
 <b>WSDM 2019</b>.<a href="https://github.com/chongyangtao/MRFN" target="_blank">[<u>code</u>]</a>
+
+<h3><strong>2018</strong></h3>
 
 <b>[Playing 20 question game with policy-based reinforcement learning](https://arxiv.org/pdf/1808.07645.pdf)</b> <br>
 Huang Hu, Xianchao Wu, Bingfeng Luo, Chongyang Tao, <b>Can Xu</b>, Wei Wu, Chen Zhan.
