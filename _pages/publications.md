@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 <br><br>
+<b>[PCL: Peer-Contrastive Learning with Diverse Augmentations for Unsupervised Sentence Embeddings](https://arxiv.org/abs/2201.12093)</b> <br> 
+Qiyu Wu, Chongyang Tao, Tao Shen, <b>Can Xu</b>, Xiubo Geng, Daxin Jiang.
+<b>EMNLP 2022</b>. 
+
+<b>[Small Changes Make Big Differences: Improving Multi-turn Response Selection in Dialogue Systems via Fine-Grained Contrastive Learning](https://arxiv.org/abs/2111.10154)</b> <br> 
+Yuntao Li, <b>Can Xu</b>, Huang Hu, Lei Sha, Yan Zhang, Daxin Jiang.
+<b>INTERSPEECH 2022</b>.
+
 <b>[Stylized Knowledge-Grounded Dialogue Generation via Disentangled Template Rewriting](https://arxiv.org/abs/2204.05610)</b> <br> 
 Qingfeng Sun, <b>Can Xu</b>, Huang Hu, Yujing Wang, Jian Miao, Xiubo Geng, Yining Chen, Fei Xu, Daxin Jiang.
 <b>NAACL 2022</b>. <a href="https://github.com/victorsungo/SKDG-DTR" target="_blank">[<u>code</u>]</a>
