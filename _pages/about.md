@@ -16,6 +16,7 @@ redirect_from:
 * He received bachelor’s degree in computer science from Sichuan University and master's degree (advisor was Jingsong Yu) in computer technology from Peking University.
 
 # Recent News
+* 1 long papers accepted by CVPR 2023!
 * 3 long papers accepted by ICLR 2023!
 * 1 paper about <a href="https://arxiv.org/abs/2201.12093"> Peer-Contrastive Learning for Unsupervised Sentence Embeddings</a> accepted by EMNLP 2022!
 * 1 paper about <a href="https://arxiv.org/abs/2111.10154"> Fine-Grained Contrastive Learning for Dialogue Response Selection</a> accepted by INTERSPEECH 2022!
