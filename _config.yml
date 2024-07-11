@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @CanXu20
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Can Xu"
   avatar           : "canxu.jpg"
-  bio              : "Senior Research Scientist @ Microsoft STCA NLP Center"
-  location         : "Beijing"
+  bio              : "Senior Research Scientist @ Microsoft AI"
+  location         : "Seattle"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=5aiE_NcAAAAJ"
-  email            :
+  email            :  "nlpxucan@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@CanXu20"
   vine             :
   weibo            :
   xing             :
