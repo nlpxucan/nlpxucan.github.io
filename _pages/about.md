@@ -11,7 +11,7 @@ redirect_from:
 
 # Bio
 * Can Xu is currently a Senior Research Scientist at Microsoft AI. He has contributed core techniques for Microsoft XiaoIce,  Bing, WizardLM and Phi-3. 
-* Can Xu has published 40+ papers in top-tier international conferences, such as NeurIPS, ACL, ICLR, EMNLP, AAAI etc. 
+* Can Xu has published 40+ papers in top-tier international conferences, such as NeurIPS, ACL, ICLR, EMNLP, AAAI etc. He has received over 2800 citations on Google Scholar.
 * His research interests include large language models, dialogue systems, and information retrieval.
 * He received bachelor’s degree in computer science from Sichuan University and master's degree (advisor was Jingsong Yu) in computer technology from Peking University.
 
