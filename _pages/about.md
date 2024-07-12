@@ -16,6 +16,7 @@ redirect_from:
 * He received bachelor’s degree in computer science from Sichuan University and master's degree (advisor was Jingsong Yu) in computer technology from Peking University.
 
 # Recent News
+* [Apr.2023]: Release <a href="https://arxiv.org/abs/2304.12244">WizardLM</a> expertized in following complex instructions. <a href="https://github.com/nlpxucan/WizardLM">[Github]</a> (Over 9K Stars) [WizardLM Pages] [Huggingface] <a href="https://beebom.com/best-large-language-models-llms/">[Beeboom: 12 Best LLMs in 2024]</a> <a href="https://wallstreetcn.com/charts/41954476">[华尔街见闻] </a>
 * 1 long papers accepted by ACL 2023!
 * 1 long papers accepted by CVPR 2023!
 * 3 long papers accepted by ICLR 2023!
