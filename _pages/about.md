@@ -17,7 +17,7 @@ redirect_from:
 * He received bachelor’s degree in computer science from Sichuan University and master's degree (advisor was Jingsong Yu) in computer technology from Peking University.
 
 # Recent News
-* Our papers <a href="https://arxiv.org/abs/2304.12244">WizardLM</a> and <a href="https://arxiv.org/abs/2306.08568">WizardCoder</a> got accepted to ICLR 2024. 
+* [2024.01] Our papers <a href="https://arxiv.org/abs/2304.12244">WizardLM</a> and <a href="https://arxiv.org/abs/2306.08568">WizardCoder</a> got accepted to ICLR 2024. 
 * 1 long papers accepted by ACL 2023!
 * 1 long papers accepted by CVPR 2023!
 * 3 long papers accepted by ICLR 2023!
